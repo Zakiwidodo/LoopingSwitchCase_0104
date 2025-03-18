@@ -20,4 +20,7 @@ for (i = 4; i >= 0; i--){
         << "Lari Keliling lapangan" << endl;
 }
 
+
+cout << "Nilai i terakhir : " << i << endl;
+
 }
