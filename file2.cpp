@@ -19,5 +19,6 @@ int main (){
         perulanganWhile++;
     }while (x < 7);
     cout << "Nilai x akhir : " << x << endl;
-    cout << "Jumlah perulangan :" << perulanganDowhile << endl;   
+    cout << "Jumlah perulangan :" << perulanganDowhile << endl;
+    
 }
